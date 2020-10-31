@@ -1,0 +1,14 @@
+h1{
+    color:darkblue ;
+}
+body{
+    background-color:rgb(204, 247, 155);
+}
+form{
+    padding-left: 100px;
+    }
+form.one{
+    border-style:double;
+    border-width: 15px;
+    border-color: rgb(56, 2, 38);
+}
